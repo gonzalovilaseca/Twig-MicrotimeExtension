@@ -1,4 +1,4 @@
-Twig-MicrotimeExtension
+TwigMicrotimeExtension
 =======================
 
 This Twig extension formats a Unix microtime in a human readable format, it also calculates time between two microtimes.
